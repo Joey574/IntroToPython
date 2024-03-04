@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToPython", "IntroToPython\IntroToPython.pyproj", "{A55C0B86-0587-4DB1-9D52-CE25DE13C27C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GS01_03_Hello_World", "GS01_03_Hello_World\GS01_03_Hello_World.pyproj", "{F366C2B4-CEB7-428B-80FC-D1D09EA3FCDE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GS01_05_Var_and_Consts", "GS01_05_Var_and_Consts\GS01_05_Var_and_Consts.pyproj", "{DAC6FFDD-962C-4B16-9F36-B04E844901DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55C0B86-0587-4DB1-9D52-CE25DE13C27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55C0B86-0587-4DB1-9D52-CE25DE13C27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F366C2B4-CEB7-428B-80FC-D1D09EA3FCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F366C2B4-CEB7-428B-80FC-D1D09EA3FCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC6FFDD-962C-4B16-9F36-B04E844901DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC6FFDD-962C-4B16-9F36-B04E844901DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B176B78D-C4B3-49D0-BDF0-FCB61CA67BF9}
+	EndGlobalSection
+EndGlobal
